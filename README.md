@@ -23,10 +23,10 @@ Block Block is a fun and challenging puzzle game that will test your brain and k
 </td>
 </tr>
 <td>
-<img src="https://user-images.githubusercontent.com/41696219/164555481-4b969631-9030-4b7a-b5b8-a883cd648e66.png" width="600">
+<img src="https://play-lh.googleusercontent.com/4Pb-qY51hIYmvz7Jn2lyYbQpRDjxEm1n1Tedx39Iryotn3aM68xger53OyS1tgHgdCKBZ4kioZ-mYHC2IfpG=w1052-h592-rw">
 </td>
  <td>
-<img src="https://user-images.githubusercontent.com/41696219/174881395-818938a2-ea8c-4565-a61a-dea3e88a451d.png" width="600">
+<img src="https://play-lh.googleusercontent.com/GkQyR78pLjFump10nXUSUh-C4K2qDBV_pp7stOth6e_bf14jRjkC-5x5oggqE1B8-ppRgGbidDgsS-cHtgOcRb4=w1052-h592-rw">
  </td>
   </tr>
 </tr>
