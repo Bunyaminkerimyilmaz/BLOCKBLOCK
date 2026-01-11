@@ -1,8 +1,5 @@
-
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-
 ![csharp](https://forthebadge.com/images/badges/made-with-c-sharp.svg)
-
 ![Android](https://forthebadge.com/images/badges/built-for-android.svg)
 
 # BLOCKBLOCK
@@ -15,18 +12,18 @@ Block Block is a fun and challenging puzzle game that will test your brain and k
 <table align="center">
   <tr>
     <td align="center">
-      <img src="./screenshots/1.png" width="250" alt="Screen 1">
+      <img src="screenshots/1.png" width="250" alt="Screen 1">
     </td>
     <td align="center">
-      <img src="./screenshots/2.png" width="250" alt="Screen 2">
+      <img src="screenshots/2.png" width="250" alt="Screen 2">
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="./screenshots/3.png" width="250" alt="Screen 3">
+      <img src="screenshots/3.png" width="250" alt="Screen 3">
     </td>
     <td align="center">
-      <img src="./screenshots/4.png" width="250" alt="Screen 4">
+      <img src="screenshots/4.png" width="250" alt="Screen 4">
     </td>
   </tr>
 </table>
